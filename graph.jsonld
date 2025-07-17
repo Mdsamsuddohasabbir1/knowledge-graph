@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Rong Mistri BD",
+  "url": "https://rong-mistri-bd.blogspot.com/",
+  "logo": "https://rong-mistri-bd.blogspot.com/path-to-your-logo.png",
+  "description": "বাংলাদেশের সেরা রং মিস্ত্রি সার্ভিস, পেশাদার পেইন্টিং, ঘরের রঙ পরিবর্তন এবং ইন্টেরিয়র ডিজাইনের সেরা সমাধান।",
+  "foundingDate": "2020-01-01",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "Md Samsud Doha Sabbir"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "House No 123, Road No 4, Khilgaon",
+    "addressLocality": "Dhaka",
+    "addressRegion": "Dhaka Division",
+    "postalCode": "1219",
+    "addressCountry": "BD"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+8801781331756",
+    "contactType": "Customer Service",
+    "areaServed": "BD",
+    "availableLanguage": ["Bengali", "English"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/rongmistri5",
+    "https://facebook.com/groups/2986571281402956/",
+    "https://wa.me/8801781331756",
+    "https://imo.im/1781331756",
+    "https://youtube.com/@rongmistri1",
+    "https://www.linkedin.com/in/rongmistri",
+    "https://www.instagram.com/rongmistri3",
+    "https://m.imdb.com/name/nm14276454/",
+    "https://x.com/rong_mistri"
+  ],
+  "email": "mailto:info@rongmistri-bd.com",
+  "hasMap": "https://goo.gl/maps/your-google-map-link"
+}
